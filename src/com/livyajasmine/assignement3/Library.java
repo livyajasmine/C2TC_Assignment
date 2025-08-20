@@ -1,4 +1,4 @@
-package Assignement3;
+package com.livyajasmine.assignement3;
 
 public class Library {
     private Item[] items;

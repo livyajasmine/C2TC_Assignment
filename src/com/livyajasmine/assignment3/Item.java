@@ -1,4 +1,4 @@
-package com.livyajasmine.assignement3;
+package com.livyajasmine.assignment3;
 
 public class Item {
     protected int id;

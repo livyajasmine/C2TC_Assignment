@@ -1,4 +1,4 @@
-package com.livyajasmine.assignement3;
+package com.livyajasmine.assignment3;
 
 public class Main {
     public static void main(String[] args) {

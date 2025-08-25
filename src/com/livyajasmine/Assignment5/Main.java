@@ -1,4 +1,5 @@
-package com.livyajasmine.assignment4;
+package com.livyajasmine.Assignment5;
+
 
 import java.util.Scanner;
 
